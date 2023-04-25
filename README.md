@@ -1,2 +1,2 @@
 # printf
-the print f function
+This is a repo for the 0x11. C - printf project
